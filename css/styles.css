@@ -10174,3 +10174,17 @@ header.masthead h1 {
   background-size:1600px 900px;
 
 }
+
+#ten{
+  background-image: url("../assets/cross.jpg");
+  background-repeat: no-repeat;
+  background-size:1600px 900px;
+
+}
+
+#eleven{
+  background-image: url("../assets/cake.jpg");
+  background-repeat: no-repeat;
+  background-size:1600px 900px;
+
+}
